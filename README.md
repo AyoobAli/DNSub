@@ -2,6 +2,8 @@
 
 Subdomain discovery tool
 
+![ransomwatch-cli](.img/DNSub.png)
+
 ### Install (Linux)
 
 Simply clone the repository to the location you want:
